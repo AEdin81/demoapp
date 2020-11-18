@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is a secondary application
+            This is a fix COB-1000
         </div>
     </form>
 </body>
